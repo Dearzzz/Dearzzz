@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Richard Kurnia</h1>
 <h3 align="center">I'm a passionate backend developer from indonesia</h3>
 
-- 🌱 I’m currently learning **Laravel**
+- 👨‍💻 All of my projects are available at [https://dearzzz.github.io/Web-Portfolio/](https://dearzzz.github.io/Web-Portfolio/)
 
 - 💬 Ask me about **Laravel**
 
@@ -9,6 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/@itz.znkzmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@itz.znkzmi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
